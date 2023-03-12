@@ -1,0 +1,59 @@
+
+body{
+    font-family: poppins;
+    background-color: #0d1821;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color: #23415a;
+    border-radius: 15px;
+    padding: 25px;
+    max-width: 400px;
+    width: 100%;
+
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+#gerarNumerosBtn{
+    display: block;
+    margin: auto;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    font-family: poppins;
+    font-weight: bold;
+    margin-bottom: 26px;
+}
+
+#gerarNumerosBtn:hover{
+    background-color: aquamarine;
+
+}
+
+#numeros {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#estrelas {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 20px;
+}
