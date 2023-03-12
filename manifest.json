@@ -15,8 +15,7 @@
     }
   ],
 
-  "star_url": "./",
-  "scope": ".",
+  "star_url": "./index.html",
   "background_color": "#0d1821",
   "display": "fullscreen"
 }
