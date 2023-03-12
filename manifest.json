@@ -1,7 +1,7 @@
 {
   "name": "Euromilhões",
   "short_name": "Euromilhões",
-  "start_url": "./index.html",
+  "description": "Numbers and stars generator",
   "icons": [
     {
       "src": "euroIcon.png",
@@ -15,6 +15,8 @@
     }
   ],
 
+  "star_url": "./",
+  "scope": ".",
   "background_color": "#0d1821",
   "display": "fullscreen"
 }
