@@ -10,12 +10,12 @@
     },
     {
       "src": "euro_icon 2px.png",
-      "sizes": "512x512",
+      "sizes": "550x550",
       "type": "image/png"
     }
   ],
   "start_url": "./",
   "scope": ".",
-  "background_color": "#FFFFFF",
+  "background_color": "#0D1821",
   "display": "fullscreen"
 }
