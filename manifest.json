@@ -1,7 +1,7 @@
 {
-  "name": "Euromilhões",
-  "short_name": "Euromilhões",
-  "description": "Numbers and stars generator",
+  "name": "Euromilhoes",
+  "short_name": "Euromilhoes",
+  "description": "Key Generator",
   "icons": [
     {
       "src": "euroIcon.png",
@@ -9,13 +9,13 @@
       "type": "image/png"
     },
     {
-      "src": "euro_icon2px.png",
-      "sizes": "600x600",
+      "src": "euro_icon 2px.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
-
-  "star_url": "./index.html",
-  "background_color": "#0d1821",
+  "start_url": "./",
+  "scope": ".",
+  "background_color": "#FFFFFF",
   "display": "fullscreen"
 }
